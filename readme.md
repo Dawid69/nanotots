@@ -1,3 +1,3 @@
 # Timestamp to Date converter 
 
-WIP
+Showcase of CLI arguments for a program 

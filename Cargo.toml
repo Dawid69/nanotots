@@ -9,4 +9,4 @@ description = "A cli time parser"
 [dependencies]
 
 clap = { version = "3.1.9", features = ["cargo"]}
-chrono = "*"
+chrono = "0.4.19"
